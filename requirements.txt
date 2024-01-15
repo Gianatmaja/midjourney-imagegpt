@@ -1,6 +1,7 @@
 Flask
 gunicorn
 json
-request
+requests
 time
 replicate
+PIL
