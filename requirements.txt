@@ -1,6 +1,5 @@
 Flask
 gunicorn
 requests
-time
 replicate
 PIL
