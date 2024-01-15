@@ -1,6 +1,5 @@
 Flask
 gunicorn
-json
 requests
 time
 replicate
